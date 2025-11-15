@@ -3,16 +3,6 @@
 ### If you like this pls give me a star 🙏
 ### i Recomand hosting your self since there is multiple people using vercel which makes it slower so uh yeah pls host it ur self it will be more faster
 
-## Want More Features? Well Even tho the Free one on github is still good but want a API that updates Realtime Well for only 10$/Lifetime you can have a API access to a paid with Realtime Updates with More Features | Our New Feature is the Stock & Foreverpack Predictor | To buy Join this Server [DISCORD](https://discord.gg/bf7MFhYpXb)
-
-Games the paid Api support
-- bloxfruit
-- Grow a Garden
-- Plant Vs Brainrot
-- Steal a Brainrot
-
-For the Confustion the github one is still being updated and it will remain free but if you want a Premium API with me hosting it without Scrapping from other api 
-
 ### [CHANGELOGS](https://github.com/Just3itx/Grow-A-Garden-API/blob/main/CHANGELOG.md)
 
 Welcome to the **Grow a Garden API**. This open-source API provides a straightforward way to access in-game gardening data—including stock levels, weather conditions, and item information—without the need to host or maintain bots yourself.
@@ -25,10 +15,7 @@ features include:
 - Detailed item information available through the API.
 - Real-time restock notifications as they occur.
 - Fully open-source and available for community use and contribution.
-
-# 💿Too Lazy to host your self?
-Don't Worry i've decided to use Vercel to host this api so u don't have to here is the url
-- ATM Vercel Decided to Pause The API so ill be looking for a new Host to host it the API Public
+- 
 # ⚙️ Installation
 
 To get started with the Grow a Garden API, you’ll need to have Node.js installed. After that, you can set up the API with the following dependencies:
